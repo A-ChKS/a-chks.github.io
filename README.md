@@ -1,1 +1,1 @@
-# a-chks.github.io/WebGL_Test/
+# a-chks.github.io/WebGL/
